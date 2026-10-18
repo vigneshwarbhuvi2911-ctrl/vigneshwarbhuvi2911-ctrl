@@ -2,7 +2,7 @@
 
 **Generative AI Engineer | LLM & RAG Developer** · Python, FastAPI, AWS Bedrock · Chennai, India
 
-Senior AI Analyst with 5.1 years of IT experience delivering LLM, RAG and Agentic AI solutions for banking and insurance clients at Centaur Billing IT Solutions, Chennai, where I grew from Junior AI Analyst (2021) to Senior AI Analyst (2024).
+Senior AI Analyst with 5.2 years of IT experience delivering LLM, RAG and Agentic AI solutions for banking and insurance clients at Centaur Billing IT Solutions, Chennai, where I grew from Junior AI Analyst (2021) to Senior AI Analyst (2024).
 
 I analyse business requirements, design and test prompts and RAG / agentic workflows in LangChain and LangGraph, and deliver chatbots, document Q&A and AI search with measured accuracy, monitoring and cost control.
 
