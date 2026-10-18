@@ -1,10 +1,16 @@
 ## Hi, I'm K S Vigneshwar 👋
 
-**Generative AI Engineer** · LLMs, RAG and agentic AI · Chennai, India
+**Generative AI Engineer | LLM & RAG Developer** · Python, FastAPI, AWS Bedrock · Chennai, India
 
-I have 5+ years of experience building GenAI solutions for **banking and insurance** clients: RAG assistants, multi-agent workflows, evaluation, guardrails and LLM cost control on AWS Bedrock and Azure OpenAI.
+Senior AI Analyst with 5.1 years of IT experience delivering LLM, RAG and Agentic AI solutions for banking and insurance clients at Centaur Billing IT Solutions, Chennai, where I grew from Junior AI Analyst (2021) to Senior AI Analyst (2024).
 
-My client work is confidential, so the projects below are personal builds on synthetic data. They show how I design, test and ship AI systems end to end.
+I analyse business requirements, design and test prompts and RAG / agentic workflows in LangChain and LangGraph, and deliver chatbots, document Q&A and AI search with measured accuracy, monitoring and cost control.
+
+Highlights: a LangGraph multi-agent claims assistant for a general insurer that cut manual review time per claim by around 40%, and an enterprise knowledge assistant for a private sector bank's operations staff.
+
+I maintain a 200-question evaluation set that keeps answer accuracy above 90% before each release, and drove prompt, model and retrieval changes that cut token cost per query by around 30%.
+
+My client work is confidential, so the projects below are personal builds on synthetic data that show how I design, test and ship AI systems end to end.
 
 ### Featured projects
 
@@ -19,8 +25,8 @@ Every project has automated tests, an evaluation report and Docker, and is check
 
 ### Tech
 
-`Python` `LangChain` `LangGraph` `FastAPI` `AWS Bedrock` `Azure OpenAI` `OpenSearch` `pgvector` `FAISS` `scikit-learn` `Docker` `GitHub Actions`
+`Python` `SQL` `LangChain` `LangGraph` `FastAPI` `AWS Bedrock` `Amazon Nova Pro` `Azure OpenAI` `OpenSearch` `pgvector` `FAISS` `SageMaker` `Docker` `GitHub Actions`
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/vigneshwarsekar) · vigneshwarbhuvi2911@gmail.com · Open to GenAI / AI Engineer roles across India.
+[LinkedIn](https://www.linkedin.com/in/vigneshwarsekar) · vigneshwarbhuvi2911@gmail.com · Open to GenAI / AI Engineer roles across India
